@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Voltaji</string>
+    <string name="title_activity_main">Voltaji</string>
+    <string name="package_name">ge.voltaji.app</string>
+    <string name="custom_url_scheme">ge.voltaji.app</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "appId": "ge.voltaji.app",
+  "appName": "Voltaji",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}

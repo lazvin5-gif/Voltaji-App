@@ -1,0 +1,16 @@
+{
+  "name": "voltaji",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "bundle": "esbuild src/app.js --bundle --format=iife --outfile=www/app.js --minify",
+    "build": "npm run bundle"
+  },
+  "dependencies": {
+    "@capacitor-community/bluetooth-le": "^6.1.0",
+    "@capacitor/android": "^6.2.2",
+    "@capacitor/cli": "^6.2.2",
+    "@capacitor/core": "^6.2.2",
+    "esbuild": "^0.28.2"
+  }
+}
